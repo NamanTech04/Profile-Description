@@ -10,13 +10,13 @@ I’m passionate about building **practical AI solutions**, creating **efficient
 - Leaning **Full stack Web Development**
 
 # Tech Stack
-Languages: Java, Python, C++  
-Web: HTML, CSS, JavaScript (beginner), MERN (learning)  
-ML/AI: Basics of Data Science, Python Libraries (NumPy, Pandas, Matplotlib, FastAPI, SciketLearn, Pytorch)  
+- Languages: Java, Python, C++  
+- Web: HTML, CSS, JavaScript (beginner), MERN (learning)  
+- ML/AI: Basics of Data Science, Python Libraries (NumPy, Pandas, Matplotlib, FastAPI, SciketLearn, Pytorch)  
 
 # Projects
- Portfolio Website – My first personal portfolio using HTML & CSS  
- Upcoming: ML-based projects & web-app integrations  
+- Portfolio Website – My first personal portfolio using HTML & CSS  
+- Upcoming: ML-based projects & web-app integrations  
 
  # Connect With Me
 - [LinkedIn](https://linkedin.com/in/namanvas04)  
