@@ -5,14 +5,14 @@
 I’m passionate about building **practical AI solutions**, creating **efficient web applications**, and constantly exploring **new technologies & innovations**.  
 
 # Current Focus
-- Learning **Java** (core + advanced) & mastering **DSA**
-- Exploring **Machine Learning** projects  
-- Building my first set of portfolio projects with **HTML, CSS, and JavaScript**  
+- Learning **Java** (core) & mastering **DSA**
+- Exploring **Machine Learning** projects
+- Leaning **Full stack Web Development**
 
 # Tech Stack
 Languages: Java, Python, C++  
 Web: HTML, CSS, JavaScript (beginner), MERN (learning)  
-ML/AI: Basics of Data Science, Python Libraries (NumPy, Pandas, Matplotlib)  
+ML/AI: Basics of Data Science, Python Libraries (NumPy, Pandas, Matplotlib, FastAPI, SciketLearn, Pytorch)  
 
 # Projects
  Portfolio Website – My first personal portfolio using HTML & CSS  
